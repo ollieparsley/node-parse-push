@@ -1,3 +1,1 @@
-modules.export = {
-	ParsePush: require("./lib/push")
-};
+modules.export = require("./lib/push");

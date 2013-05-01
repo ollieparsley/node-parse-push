@@ -22,5 +22,7 @@
   "author": "Hootware Limited",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "d2b96c760b0c06853de633d5941a8fab7abfcbf9"
+  "dependencies": {
+    "request": "2.21.*"
+  }
 }

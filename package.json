@@ -1,0 +1,26 @@
+{
+  "name": "node-parse-push",
+  "version": "0.0.1",
+  "description": "Library to support sending push notifications using Parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hootware/node-parse-push.git"
+  },
+  "keywords": [
+    "parse",
+    "push",
+    "parsepush",
+    "notification",
+    "message",
+    "send",
+    "broadcast"
+  ],
+  "author": "Hootware Limited",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d2b96c760b0c06853de633d5941a8fab7abfcbf9"
+}

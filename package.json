@@ -1,5 +1,5 @@
 {
-  "name": "node-parse-push",
+  "name": "parse-push",
   "version": "0.0.1",
   "description": "Library to support sending push notifications using Parse",
   "main": "index.js",
@@ -23,6 +23,6 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies": {
-    "request": "2.21.*"
+    "request": "2.21"
   }
 }

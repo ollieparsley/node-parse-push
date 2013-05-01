@@ -1,11 +1,8 @@
 {
   "name": "parse-push",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library to support sending push notifications using Parse",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:hootware/node-parse-push.git"

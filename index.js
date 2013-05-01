@@ -1,1 +1,1 @@
-modules.export = require("./lib/push");
+module.exports = require("./lib/push");

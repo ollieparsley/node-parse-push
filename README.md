@@ -8,9 +8,9 @@ Library for using ParsePush - https://www.parse.com/docs/push_guide
 
 Or check out from source
 
-   git clone git@github.com:hootware/node-parse-push.git
-   cd node-parse-push
-   npm link
+    git clone git@github.com:hootware/node-parse-push.git
+    cd node-parse-push
+    npm link
 
 ##Usage
 

@@ -1,6 +1,6 @@
 {
   "name": "parse-push",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library to support sending push notifications using Parse",
   "main": "index.js",
   "repository": {

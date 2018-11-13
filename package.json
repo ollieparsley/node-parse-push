@@ -20,6 +20,6 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies": {
-    "request": "2.21"
+    "request": ">=2.68.0"
   }
 }
